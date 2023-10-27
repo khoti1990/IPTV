@@ -1,3 +1,5 @@
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
+
 #EXTINF:-1 group-title="限江苏地区HEVC",CCTV1HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227675/index.m3u8
 #EXTINF:-1 group-title="限江苏地区HEVC",CCTV2HD
@@ -66,4 +68,17 @@ http://ott.js.chinamobile.com/PLTV/3/224/3221227738/index.m3u8
 http://ott.js.chinamobile.com/PLTV/3/224/3221227676/index.m3u8
 #EXTINF:-1 group-title="限江苏地区HEVC",东南卫视HD
 http://ott.js.chinamobile.com/PLTV/3/224/3221227670/index.m3u8
-#EXTINF:-1 group-title="限江苏地区H264",CCTV1
+
+
+#EXTINF:-1 group-title="其他" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" ,AL Jazeera FHD
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="其他" tvg-logo="https://www.hualigs.cn/image/61554ceba2b55.jpg",ArirangTV FHD
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="其他" tvg-logo="https://www.hualigs.cn/image/615551b68fe67.jpg",ABC Australia HD
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 group-title="其他" tvg-logo="https://www.hualigs.cn/image/615568670b819.jpg",NHKWorld FHD
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+
+
+
+
